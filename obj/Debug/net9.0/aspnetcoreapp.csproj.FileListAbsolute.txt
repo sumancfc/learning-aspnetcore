@@ -17,7 +17,6 @@
 /Users/susman/aspnetcoreapp/obj/Debug/net9.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
 /Users/susman/aspnetcoreapp/obj/Debug/net9.0/scopedcss/bundle/aspnetcoreapp.styles.css
 /Users/susman/aspnetcoreapp/obj/Debug/net9.0/scopedcss/projectbundle/aspnetcoreapp.bundle.scp.css
-/Users/susman/aspnetcoreapp/obj/Debug/net9.0/compressed/ktxvbpjnc9-b9sayid5wm.gz
 /Users/susman/aspnetcoreapp/obj/Debug/net9.0/compressed/6v6gvpsdzo-61n19gt1b8.gz
 /Users/susman/aspnetcoreapp/obj/Debug/net9.0/compressed/lxb4ydkkp8-xtxxf3hu2r.gz
 /Users/susman/aspnetcoreapp/obj/Debug/net9.0/compressed/ss1z2x5c1u-bqjiyaj88i.gz
@@ -95,3 +94,4 @@
 /Users/susman/aspnetcoreapp/obj/Debug/net9.0/aspnetcoreapp.pdb
 /Users/susman/aspnetcoreapp/obj/Debug/net9.0/aspnetcoreapp.genruntimeconfig.cache
 /Users/susman/aspnetcoreapp/obj/Debug/net9.0/ref/aspnetcoreapp.dll
+/Users/susman/aspnetcoreapp/obj/Debug/net9.0/compressed/ktxvbpjnc9-5ipweew5fc.gz
